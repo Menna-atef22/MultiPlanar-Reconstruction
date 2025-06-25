@@ -96,5 +96,3 @@ We extend our heartfelt gratitude to **Dr. Tamer Basha** for his invaluable guid
 
 Additionally, we appreciate the contributions of the **open-source community** for providing the essential tools and libraries that made this project possible. Their efforts in advancing medical imaging technologies have been instrumental in shaping this application. 
 
----
-🙏 *Thank you for your support and contributions!* 
