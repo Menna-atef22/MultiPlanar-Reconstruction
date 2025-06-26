@@ -79,7 +79,7 @@ python MPR.py
 5. **Reset Views:** Click the **reset button** to restore the default layout.
    
 ---
-## Folder Structure
+## 📂Folder Structure
 
 ```bash
 MultiPlanar-Reconstruction
